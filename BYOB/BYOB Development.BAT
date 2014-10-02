@@ -1,0 +1,1 @@
+start BYOB.exe BYOB.image %1 dev
