@@ -9,7 +9,7 @@ File Structure
 --------------
 
 ### `\BYOB\`
-Program Files for BYOB. Can be launched using the shortcut in the root directory.
+Program Files for BYOB. Due to shortcut problems you'll need to create your own shortcut if you want one. Pretty much any shortcut (`.lnk`) file will be `.gitignored`.
 
 ### `\Class Docs\`
 Some documents used in class.
