@@ -9,7 +9,7 @@ File Structure
 --------------
 
 ### `\BYOB\`
-Program Files for BYOB. Can be launched using the shortcut in the root directory.
+Program Files for BYOB. Can be launched using the shortcut `BYOB.exe`.
 
 ### `\Class Docs\`
 Some documents used in class.
@@ -34,7 +34,7 @@ GNU GPL V2 (see [LICENSE](LICENSE "license"))
 Credits
 -------
 
-- **_BYOB_** (Now called _Snap_) ![](http://img.shields.io/badge/version-3.1.1-blue.svg?style=flat-square).
+- **_BYOB_** (Now called _Snap_) ![](http://img.shields.io/badge/version-3.1.1-blue.svg?style=flat-square)
 	- [Website](http://snap.berkeley.edu/"Snap (Formerly BYOB)")
 - Badges from [here](http://shields.io/).
 - Progress bars from [here](https://github.com/fehmicansaglam/progressed.io).
