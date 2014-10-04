@@ -8,9 +8,6 @@
 File Structure
 --------------
 
-### `\BYOB\`
-Program Files for BYOB. Can be launched using the shortcut `BYOB.exe`.
-
 ### `\Class Docs\`
 Some documents used in class.
 
