@@ -12,7 +12,7 @@ File Structure
 Some documents used in class.
 
 ### `\Experiments\`
-Various experiements I've tried that aren't related to class curriculum.
+Various experiements I've tried that aren't related to class curriculum. For specific details, see the [wiki](# "Wiki") _(under construction)_.
 
 ### `\Labs\`
 Programs created in class. For specific details, see the [wiki](# "Wiki") _(under construction)_.
