@@ -3,7 +3,7 @@
 
 > A repository for the code used in my _Intro to Computer Science Class_ at **_Eastlake High School_**
 
-<img alt="[IMAGE FAILED TO LOAD] Eastlake Logo - Go Wolves!" title="Eastlake Logo - Go Wolves!" src="http://www.lwsd.org/school/EHS/SiteCollectionImages/Eastlake%20Wolf%20Logo%20Converted.jpg" width="200" height="200" />
+<img alt="Eastlake Logo - Go Wolves!" title="Eastlake Logo - Go Wolves!" src="http://www.lwsd.org/school/EHS/SiteCollectionImages/Eastlake%20Wolf%20Logo%20Converted.jpg" width="200" height="200" />
 
 File Structure
 --------------
@@ -26,12 +26,12 @@ Resources reusable in most of my programs.
 License
 -------
 
-GNU GPL V2 (see [LICENSE](LICENSE "license"))
+GNU GPL V2 (see [LICENSE](LICENSE))
 
 Credits
 -------
 
 - **_BYOB_** (Now called _Snap_) ![](http://img.shields.io/badge/version-3.1.1-blue.svg?style=flat-square)
-	- [Website](http://snap.berkeley.edu/"Snap (Formerly BYOB)")
+	- [Website](http://snap.berkeley.edu/)
 - Badges from [here](http://shields.io/).
 - Progress bars from [here](https://github.com/fehmicansaglam/progressed.io).
