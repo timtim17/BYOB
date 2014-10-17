@@ -2,6 +2,8 @@
 ====
 
 > A repository for the code used in my _Intro to Computer Science Class_ at **_Eastlake High School_**
+>
+> **PSA:** The _ToolSprite_ in BYOB's sprites directory has some **very** useful custom blocks.
 
 <img alt="Eastlake Logo - Go Wolves!" title="Eastlake Logo - Go Wolves!" src="http://www.lwsd.org/school/EHS/SiteCollectionImages/Eastlake%20Wolf%20Logo%20Converted.jpg" width="200" height="200" />
 
