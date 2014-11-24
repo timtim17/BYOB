@@ -33,7 +33,10 @@ GNU GPL V2 (see [LICENSE](LICENSE))
 Credits
 -------
 
-- **_BYOB_** (Now called _Snap_) ![](http://img.shields.io/badge/version-3.1.1-blue.svg?style=flat-square)
+- **_BYOB_** (Now called _Snap_) ![v3.1.1](http://img.shields.io/badge/version-3.1.1-blue.svg?style=flat-square)
 	- [Website](http://snap.berkeley.edu/)
+- **_Kinect2Scratch_** ![v1.5](http://img.shields.io/badge/version-1.5-blue.svg?style=flat-square)
+- 	- [Website](http://scratch.saorog.com/)
+- 	- Used in [Flap-Master 9000](Projects\Project 3 - Flap-Master 9000)
 - Badges from [here](http://shields.io/).
 - Progress bars from [here](https://github.com/fehmicansaglam/progressed.io).
