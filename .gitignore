@@ -1,2 +1,7 @@
+# Actual BYOB Program
 *.lnk
 BYOB/
+
+# Thumbnail Things
+Thumbs.db
+scratchthumbs.db
