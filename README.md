@@ -1,33 +1,5 @@
-# <img src="https://raw.githubusercontent.com/timtim17/BYOB/master/Class%20Docs/Alonso.gif" height="25" />BYOB&nbsp;
-<!-- Random Javascript Cause Lazy. -->
-<script>
-	var img = document.createElement('img'),
-	    x = new Date().getMonth();
-	switch(x){
-		case 8:
-			x = 1;
-			break;
-		case 9:
-			x = 2;
-			break;
-		case 10:
-			x = 3;
-			break;
-		case 11:
-			x = 3.5;
-			break;
-		case 0:
-			x = 4;
-			break;
-		default:
-			x = 450;
-			break;
-	}
-	img.src = "http://progressed.io/bar/" + Math.round((x/4.5) * 100) +"?title=class+progress";
-	document.appendChild(img);
-</script>
-<!-- Easter Egg Unlock -->
-&nbsp;![](http://img.shields.io/badge/year-freshman-red.svg?style=flat-square)
+<img src="https://raw.githubusercontent.com/timtim17/BYOB/master/Class%20Docs/Alonso.gif" height="25" />BYOB ![](http://progressed.io/bar/66?title=class+progress)&nbsp;![](http://img.shields.io/badge/year-freshman-red.svg?style=flat-square)
+====
 
 > A repository for the code used in my _Intro to Computer Science Class_ at **_Eastlake High School_**
 >
