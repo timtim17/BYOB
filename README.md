@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/timtim17/BYOB/master/Class%20Docs/Alonso.gif" height="25" />BYOB ![](http://progressed.io/bar/66?title=class+progress)&nbsp;![](http://img.shields.io/badge/year-freshman-red.svg?style=flat)
+<img src="https://raw.githubusercontent.com/timtim17/BYOB/master/Class%20Docs/Alonso.gif" height="25" />BYOB ![](http://progressed.io/bar/77?title=class+progress)&nbsp;![](http://img.shields.io/badge/year-freshman-red.svg?style=flat)
 ====
 
 > A repository for the code used in my _Intro to Computer Science Class_ at **_Eastlake High School_**
